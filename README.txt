@@ -11,7 +11,7 @@ originals are
 
 BUILD:
 
-before build this software, you should make the private key.
+before build this software, you have to make the private key.
 JAirPort says,
 
 ---- JAirePort README ----
